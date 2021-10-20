@@ -6,6 +6,7 @@ lab4.py
 from graphics import *
 import math
 
+
 def squares():
     """  <---  You can use tripled quotes to write a multi-line comment....
 
@@ -128,9 +129,9 @@ def pi2():
 
 
 def main():
-    # squares()
-    # rectangle()
-    # circle()
+    squares()
+    rectangle()
+    circle()
     pi2()
 
 

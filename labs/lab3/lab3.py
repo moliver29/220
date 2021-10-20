@@ -33,7 +33,7 @@ def sequence():
     n = eval(input("Enter the number of terms:"))
     for i in range(1, n+1):
         seq = 1 + (i // 2 * 2)
-        print(seq)
+        print(seq, end=" ")
 
 
 def pi():

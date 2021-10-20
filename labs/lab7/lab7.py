@@ -59,12 +59,12 @@ def encode_better():
 
 
 def main():
-    cash_conversion()
-    encode()
-    print(sphere_area(3))
-    print(sphere_volume(3))
-    print(sum_n(3))
-    print(sum_n_cubes(4))
+    # cash_conversion()
+    # encode()
+    # print(sphere_area(3))
+    # print(sphere_volume(3))
+    # print(sum_n(3))
+    # print(sum_n_cubes(4))
     encode_better()
     pass
 
