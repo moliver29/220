@@ -1,10 +1,17 @@
 """
-Name: <your name goes here – first and last>
-<ProgramName>.py
+Name: Max Oliver
+lab8.py
 """
 
+
+def number_words(in_file_name, out_file_name):
+
+
+
+
+
 def main():
-    # add other function calls here
+    number_words(input.txt, output.txt)
     pass
 
 
