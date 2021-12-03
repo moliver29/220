@@ -1,7 +1,6 @@
 """
 Name: Max Oliver
 sales_force.py
-
 Problem: make a class that encapsulates data for a sales person
 
 Certification of Authenticity:
